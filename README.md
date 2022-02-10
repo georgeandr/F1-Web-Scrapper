@@ -6,7 +6,7 @@
 
 This project is an attempt to get hands-on experience with Web Scrapping libraries such as Beautiful Soup. At first, I will use Beautiful Soup to scrape Driver Standings from the beginning of Formula 1. Later on, I will conduct Exploratory Data Analysis and Visualizations using the scrapped data. 
 
-More can read more about Formula 1 [here](https://www.formula1.com/en.html)
+You can read more about Formula 1 [here](https://www.formula1.com/en.html).
 
 ### Build With 
 * Python 
@@ -14,7 +14,7 @@ More can read more about Formula 1 [here](https://www.formula1.com/en.html)
 
 
 ### Prerequisites
-The prerequisites can be found in the [requierments.txt](test.com)
+The prerequisites can be found in the [requierments.txt](test.com).
 
 ### Description 
 My project consists of two parts: <br/>
