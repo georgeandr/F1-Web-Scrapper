@@ -14,7 +14,7 @@ You can read more about Formula 1 [here](https://www.formula1.com/en.html).
 
 
 ### Prerequisites
-The prerequisites can be found in the [requierments.txt](test.com).
+The prerequisites can be found in the [requierments.txt](https://github.com/georgeandr/F1-Web-Scrapper/blob/main/requirements.txt).
 
 ### Description 
 My project consists of two parts: <br/>
