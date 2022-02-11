@@ -21,7 +21,7 @@ My project consists of two parts: <br/>
 
 1. Scrape data from the official Formula 1 website. <br/>
 
-2. Conduct Exploratory Data Analysis (EDA) <br/>
+2. Conduct Exploratory Data Analysis (EDA). <br/>
 
 ### Contact
 Please feel free to contact me <br/>
