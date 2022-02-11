@@ -4,14 +4,13 @@
 
 ## About the Project 
 
-This project is an attempt to get hands-on experience with Web Scrapping libraries such as Beautiful Soup. At first, I will use Beautiful Soup to scrape Driver Standings from the start of Formula 1 back in 1950. Later on, I will conduct Exploratory Data Analysis and Visualizations using the scrapped data. 
+This project is developed to get hands-on experience with Web Scrapping libraries such as Beautiful Soup. At first, I will use Beautiful Soup to scrape annually Driver Standings from the beginning of Formula 1 back in 1950. Later on, I will conduct Exploratory Data Analysis and Visualizations based on the scrapped data. 
 
 You can read more about Formula 1 [here](https://www.formula1.com/en.html).
 
 ### Build With 
 * Python 
 * Jupyter Notebook 
-
 
 ### Prerequisites
 The prerequisites can be found in the [requierments.txt](https://github.com/georgeandr/F1-Web-Scrapper/blob/main/requirements.txt).
@@ -26,6 +25,3 @@ My project consists of two parts: <br/>
 ### Contact
 Please feel free to contact me <br/>
 Andronikidis George: giorgosandronikidis@gmail.com <br/>
-
-
-
